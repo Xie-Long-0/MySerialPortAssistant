@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MySerialPort", "MySerialPort.vcxproj", "{8187C13F-211C-3A37-9A70-F43EEA3DD8FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{9E6ED644-4FD9-496F-A488-F513AB9862A0}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8187C13F-211C-3A37-9A70-F43EEA3DD8FD}.Debug|x64.ActiveCfg = Debug|x64
+		{8187C13F-211C-3A37-9A70-F43EEA3DD8FD}.Debug|x64.Build.0 = Debug|x64
+		{8187C13F-211C-3A37-9A70-F43EEA3DD8FD}.Release|x64.ActiveCfg = Release|x64
+		{8187C13F-211C-3A37-9A70-F43EEA3DD8FD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F61A2D44-A851-49C8-8642-63157A5FD183}
+	EndGlobalSection
+EndGlobal
